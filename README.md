@@ -25,3 +25,6 @@ Here is another edit (and some formatting) AFTER having set several git-related 
 # 2018 10 30 e
 Here is another edit from an instance of vscode running in a Raspberry Pi 3 B+ microprocessor and a local repo stored on that Raspberry Pi...
 
+# 2018 11 21 
+
+Hi mark 
